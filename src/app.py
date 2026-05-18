@@ -74,6 +74,18 @@ activities = {
         "schedule": "Mondays, 3:30 PM - 5:00 PM",
         "max_participants": 20,
         "participants": ["casey@mergington.edu", "sam@mergington.edu"]
+    },
+    "Swimming": {
+        "description": "Learn swimming techniques and water safety skills",
+        "schedule": "Tuesdays and Thursdays, 5:00 PM - 6:00 PM",
+        "max_participants": 25,
+        "participants": ["tyler@mergington.edu"]
+    },
+    "Craft Workshop": {
+        "description": "Create handmade crafts including pottery, jewelry, and woodworking",
+        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 16,
+        "participants": ["alex@mergington.edu", "morgan@mergington.edu"]
     }
 }
 
